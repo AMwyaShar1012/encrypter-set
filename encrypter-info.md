@@ -1,22 +1,61 @@
- # Encryption File Info & Other-than-license Rules
+# Rules for Encryption Methods Repository
 
-## Chapter 1 - Files
+## Chapter 1: Introduction to Encryption
+### 1.1 Purpose
+- This chapter outlines the purpose and importance of encryption in securing data.
 
-### 1.1 - Base Models
-1 - caesermethod.py is a base model for a more friendly TUI Interface for testing and formattable exploration of the base repo (this repo).
+### 1.2 Overview of Encryption Methods
+- This chapter provides an overview of various encryption methods employed in the repository.
 
-### 1.2 - Usage
-2 - The other models are fresh models, and are for commercial and community expert use. If you can understand the fresh models, and if you use it for legal purposes, you can use it.
+## Chapter 2: Symmetric-Key Encryption
+### 2.1 Introduction
+- This chapter introduces symmetric-key encryption and its fundamental concepts.
 
-### 1.3 - Library Requirements
-3 - All of the encrypters in this repo REQUIRE some or the other kind of library.
+### 2.2 Encryption Algorithms
+- This chapter details various symmetric-key encryption algorithms used in the repository, including:
+  - AES (Advanced Encryption Standard)
+  - ChaCha20
+  - Salsa20
+  - Threefish
+  - Speck
+  - Blowfish
+  - IDEA
+  - CAST
+  - Kuznyechik
 
-### 1.4 - Python
-4 - All of the files in the 'all-encrypters' folder are 100% Python! 
+### 2.3 Implementation
+- This chapter describes the implementation of symmetric-key encryption algorithms in Python, using the PyCryptodome library.
 
-## Chaper 2 - Commercial Usage
+## Chapter 3: Asymmetric-Key Encryption
+### 3.1 Introduction
+- This chapter introduces asymmetric-key encryption and its fundamental concepts.
 
-### 2.1 - Encorparation
-1 - For commercial usage, contact me personally for extra procedures, or use the original edition ONLY! Any other non-legal association with this repository will be compromised, or expelled!
+### 3.2 Encryption Algorithms
+- This chapter outlines asymmetric-key encryption algorithms, including RSA.
 
-Thank you for reading!
+### 3.3 Implementation
+- This chapter describes the implementation of RSA encryption and decryption in Python, using the PyCryptodome library.
+
+## Chapter 4: Hybrid Encryption
+### 4.1 Introduction
+- This chapter introduces hybrid encryption, a combination of symmetric-key and asymmetric-key encryption.
+
+### 4.2 Implementation
+- This chapter describes the implementation of hybrid encryption using a combination of AES and RSA in Python, using the PyCryptodome library.
+
+## Chapter 5: File Encryption
+### 5.1 Introduction
+- This chapter introduces file encryption and its significance in securing sensitive data.
+
+### 5.2 Encryption and Decryption Process
+- This chapter outlines the process of encrypting and decrypting files using various encryption methods implemented in the repository.
+
+### 5.3 Implementation
+- This chapter describes the implementation details and usage of file encryption scripts provided in the repository.
+
+## Chapter 6: Conclusion
+### 6.1 Summary
+- This chapter summarizes the key points discussed in the repository regarding encryption methods and their implementations.
+
+### 6.2 Future Work
+- This chapter suggests potential future enhancements and developments for the encryption methods repository.
