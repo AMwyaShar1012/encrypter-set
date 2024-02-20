@@ -1,4 +1,4 @@
-# Rules for Encryption Methods Repository
+# Information and Rules for Encryption Methods Repository
 
 ## Chapter 1: Introduction to Encryption
 ### 1.1 Purpose
@@ -53,9 +53,19 @@
 ### 5.3 Implementation
 - This chapter describes the implementation details and usage of file encryption scripts provided in the repository.
 
-## Chapter 6: Conclusion
-### 6.1 Summary
+## Chapter 6: Usage
+### 6.1 Usages
+- This repository supports commercial and community usage (license will have more terms than this)
+
+### 6.2 Community Usage
+- Anyone can use this file for legal purposes, but cannot exploit the Apache 2.0 license that has been used for this repository.
+
+### 6.3 Commercial Usage
+- For commercial purposes, direct contact with the owner is reccommended. He will create a diferent repository, suitable for your business.
+
+## Chapter 7: Conclusion
+### 7.1 Summary
 - This chapter summarizes the key points discussed in the repository regarding encryption methods and their implementations.
 
-### 6.2 Future Work
+### 7.2 Future Work
 - This chapter suggests potential future enhancements and developments for the encryption methods repository.
