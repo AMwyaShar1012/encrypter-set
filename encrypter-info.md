@@ -14,7 +14,9 @@
 ### 1.4 - Python
 4 - All of the files in the 'all-encrypters' folder are 100% Python! 
 
-### 1.5 - Encorparation
-5 - For commercial usage, contact me personally for extra procedures, or use the original edition ONLY! Any other non-legal association with this repository will be compromised, or expelled!
+## Chaper 2 - Commercial Usage
+
+### 2.1 - Encorparation
+1 - For commercial usage, contact me personally for extra procedures, or use the original edition ONLY! Any other non-legal association with this repository will be compromised, or expelled!
 
 Thank you for reading!
