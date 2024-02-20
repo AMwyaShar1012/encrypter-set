@@ -9,4 +9,7 @@
 ## 1.3 - Library Reguirements
 3 - All of the encrypters in this repo REQUIRE some or the other kind of library.
 
+## 1.4 - Python
+4 - All of these files are 100% Python!
+
 Thank you for reading!
