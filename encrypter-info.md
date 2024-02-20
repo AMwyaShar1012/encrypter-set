@@ -8,7 +8,7 @@
 ### 1.2 - Usage
 2 - The other models are fresh models, and are for commercial and community expert use. If you can understand the fresh models, and if you use it for legal purposes, you can use it.
 
-### 1.3 - Library Reguirements
+### 1.3 - Library Requirements
 3 - All of the encrypters in this repo REQUIRE some or the other kind of library.
 
 ### 1.4 - Python
