@@ -1,9 +1,11 @@
 from Crypto.Cipher import SERPENT
 from Crypto.Random import get_random_bytes
 
+# Does what it says
 def generate_key():
     return get_random_bytes(32)  # 256-bit key for Serpent
 
+# File encryption
 def encrypt_file(key, filename, encrypted_filename):
     cipher = SERPENT.new(key)
     with open(filename, 'rb') as f:
@@ -14,6 +16,7 @@ def encrypt_file(key, filename, encrypted_filename):
     with open(encrypted_filename, 'wb') as f:
         f.write(encrypted_data)
 
+# File decryption 
 def decrypt_file(key, encrypted_filename, decrypted_filename):
     cipher = SERPENT.new(key)
     with open(encrypted_filename, 'rb') as f:
